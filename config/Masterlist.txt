@@ -1,0 +1,1958 @@
+Novartis AG:0001114448
+NVIDIA Corp:0001389852
+Microsoft Corp:0000789019
+Alphabet Inc:0001056617
+Alphabet Inc:0001652044
+Meta Platforms Inc:0001326801
+Tesla Inc:0001318605
+Taiwan Semiconductor Manufacturing Co Ltd:0001046179
+Oracle Corp:0001341439
+JPMorgan Chase & Co:0000019600
+JPMorgan Chase & Co:0000019489
+JPMorgan Chase & Co:0001325347
+Walmart Inc:0000217476
+Eli Lilly and Co:0000059478
+Visa Inc:0001403161
+Prudential PLC:0001116578
+Mastercard Inc:0000034945
+Netflix Inc:0001065280
+Exxon Mobil Corp:0000034088
+Johnson & Johnson:0000200406
+Home Depot Inc:0000354950
+Palantir Technologies Inc:0001321655
+Invesco QQQ Trust Series 1:0001067839
+Procter & Gamble Co:0000735244
+Procter & Gamble Co:0001301301
+Toyota Motor Corp:0000773744
+SAP SE:0001000184
+General Electric Co:0000040545
+UnitedHealth Group Inc:0000731766
+Coca-Cola Co:0000021344
+T-Mobile US Inc:0001283699
+Shopify Inc:0001594805
+Wells Fargo & Co:0000072971
+Novo Nordisk A/S:0000353278
+Philip Morris International Inc:0001413329
+Morgan Stanley:0000895421
+Goldman Sachs Group Inc:0000886982
+International Business Machines Corp:0000051143
+McDonald's Corp:0000063908
+RTX Corp:0000101829
+Shell PLC:0001306965
+AT&T Inc:0000732717
+Uber Technologies Inc:0001543151
+Merck & Co Inc:0000310158
+HSBC Holdings PLC:0001089113
+ServiceNow Inc:0001373715
+PepsiCo Inc:0000077476
+Mitsubishi UFJ Financial Group Inc:0001468017
+Verizon Communications Inc:0000732712
+PDD Holdings Inc:0001737806
+Intuit Inc:0000896878
+Thermo Fisher Scientific Inc:0000097745
+HDFC Bank Ltd:0001144967
+Micron Technology Inc:0000723125
+Sony Group Corp:0000313838
+Qualcomm Inc:0000804328
+Charles Schwab Corp:0000316709
+S&P Global Inc:0000064040
+Texas Instruments Inc:0000097476
+Intuitive Surgical Inc:0001035267
+TJX Companies Inc:0000109198
+Lowe's Companies Inc:0000060667
+Lowe's Companies Inc:0000060667
+Unilever PLC:0000217410
+Banco Santander SA:0000891478
+Spotify Technology SA:0001639920
+Eaton Corporation PLC:0001551182
+Stryker Corp:0000310764
+Nextera Energy Inc:0000753308
+Progressive Corp:0000080661
+TotalEnergies SE:0000879764
+Gilead Sciences Inc:0001022622
+Pfizer Inc:0000735232
+Palo Alto Networks Inc:0001327567
+Honeywell International Inc:0000773840
+KLA Corp:0001795139
+KKR & Co Inc:0001404912
+Union Pacific Corp:0000801960
+Paused at 15:32:10:0000315189
+MercadoLibre Inc:0001099590
+Medtronic PLC:0001613103
+Intel Corp:0000050863
+ICICI Bank Ltd:0001103838
+Sanofi SA:0001121404
+Sea Ltd:0001703399
+Lockheed Martin Corp:0000936468
+Welltower Inc:0000766704
+Altria Group Inc:0000764180
+Rio Tinto PLC:0000863064
+Prologis Inc:0001045609
+Nike Inc:0000320187
+Sumitomo Mitsui Financial Group Inc:0001022837
+Interactive Brokers Group Inc:0001169115
+Robinhood Markets Inc:0001783879
+Southern Co:0000092122
+Vertex Pharmaceuticals Inc:0000875320
+NetEase Inc:0001110646
+Intercontinental Exchange Inc:0001571949
+Marsh & McLennan Companies Inc:0000062709
+Starbucks Corp:0000829224
+Parker-Hannifin Corp:0000076334
+Strategy Inc:0001050446
+Roblox Corp:0001315098
+HCA Healthcare Inc:0000860730
+Moody's Corp:0001059556
+O'Reilly Automotive Inc:0000898173
+Trane Technologies PLC:0001466258
+Southern Copper Corp:0001001838
+Sherwin-Williams Co:0000089800
+General Dynamics Corp:0000040533
+Royal Caribbean Cruises Ltd:0000884887
+Newmont Corporation:0001164727
+Newmont Corporation:0001164727
+McKesson Corp:0000927653
+Waste Management Inc:0000823768
+Waste Management Inc:0000823768
+3M Co:0000066740
+Northrop Grumman Corp:0001133421
+Mizuho Financial Group Inc:0001335730
+GSK plc:0000800544
+Mondelez International Inc:0001103982
+Petroleo Brasileiro SA Petrobras:0001119639
+Motorola Solutions Inc:0000068505
+PNC Financial Services Group Inc:0000713676
+Synopsys Inc:0000883241
+ING Groep NV:0001079726
+Nu Holdings Ltd:0001351254
+Cloudflare Inc:0001477333
+Illinois Tool Works Inc:0000049826
+Equinix Inc:0001101239
+Howmet Aerospace Inc:0000004281
+US Bancorp:0000036104
+Ecolab Inc:0000031462
+Snowflake Inc:0001640147
+Marriott International Inc:0001171323
+Emerson Electric Co:0000032604
+Barclays PLC:0000312069
+TransDigm Group Inc:0001260221
+United Parcel Service Inc:0001090727
+Fiserv Inc:0000798354
+Vistra Corp:0001692819
+Infosys Ltd:0001067491
+Williams Companies Inc:0000107263
+Republic Services Inc:0001060391
+National Grid PLC:0001003937
+Johnson Controls International PLC:0001608109
+Elevance Health Inc:0001156039
+Elevance Health Inc:0001156039
+Enterprise Products Partners LP:0001061219
+Petroleo Brasileiro SA Petrobras:0001119635
+Lloyds Banking Group PLC:0001160106
+Corning Inc:0000024741
+EOG Resources Inc:0000821189
+Zoetis Inc:0001555280
+Freeport-McMoRan Inc:0000831259
+Monster Beverage Corp:0000865752
+Hilton Worldwide Holdings Inc:0001585689
+PayPal Holdings Inc:0001633917
+Equinor ASA:0001140625
+Norfolk Southern Corp:0000702165
+United Rentals Inc:0001067701
+Travelers Companies Inc:0000086312
+Fortinet Inc:0001262039
+Regeneron Pharmaceuticals Inc:0000872589
+Itau Unibanco Holding SA:0001132597
+Kinder Morgan Inc:0001031188
+Energy Transfer LP:0001276187
+Honda Motor Co Ltd:0000715153
+Marvell Technology Inc:0001835632
+Simon Property Group Inc:0001022344
+Workday Inc:0000855581
+NatWest Group PLC:0000844150
+Truist Financial Corp:0000092230
+Quanta Services Inc:0001050915
+Eni SpA:0001002242
+NXP Semiconductors NV:0000890138
+General Motors Co:0001467858
+Marathon Petroleum Corp:0001510295
+Realty Income Corp:0000726728
+Fastenal Co:0000815556
+Roper Technologies Inc:0000882835
+Paccar Inc:0000075362
+Sempra:0001032208
+Phillips 66:0001534701
+FedEx Corp:0001048911
+L3Harris Technologies Inc:0000202058
+Nasdaq Inc:0001120193
+Schlumberger NV:0000087347
+MetLife Inc:0001099219
+MPLX LP:0001552000
+IDEXX Laboratories Inc:0000874716
+Cheniere Energy Inc:0000003570
+Valero Energy Corp:0001035002
+Valero Energy Corp:0000021271
+Valero Energy Corp:0001035002
+JD.Com Inc:0001549802
+Trip.com Group Ltd:0001269238
+Public Storage:0001393311
+Vale SA:0000917851
+Takeda Pharmaceutical Co Ltd:0001395064
+Ross Stores Inc:0000745732
+WW Grainger Inc:0001170725
+Paychex Inc:0000723531
+Occidental Petroleum Corp:0000797468
+Ford Motor Co:0000037996
+Block Inc:0001512673
+ONEOK Inc:0001039684
+Take-Two Interactive Software Inc:0000946581
+Garmin Ltd:0001121788
+Warner Bros Discovery Inc:0001437107
+Atlassian Corp:0001650372
+Seagate Technology Holdings PLC:0001137789
+Veeva Systems Inc:0001135207
+Zscaler Inc:0001713683
+Kroger Co:0000056873
+Edwards Lifesciences Corp:0001099800
+MSCI Inc:0001408198
+Rocket Companies Inc:0001805284
+Exelon Corp:0001109357
+Electronic Arts Inc:0000712515
+Xcel Energy Inc:0000072903
+Haleon PLC:0001900304
+Kimberly-Clark Corp:0001689437
+Yum! Brands Inc:0001041061
+Monolithic Power Systems Inc:0001280452
+Target Corp:0000027419
+eBay Inc:0001065088
+Public Service Enterprise Group Inc:0000788784
+Diamondback Energy Inc:0001539838
+Live Nation Entertainment Inc:0001335258
+Restaurant Brands International Inc:0001618756
+Resmed Inc:0000943819
+Tencent Music Entertainment Group:0001094517
+Entergy Corp:0000893928
+HEICO Corp:0000896769
+HEICO Corp:0000046619
+Hershey Co:0000047111
+Sysco Corp:0000096021
+Vulcan Materials Co:0001396009
+Rockwell Automation Inc:0001024478
+Fair Isaac Corp:0000814547
+Martin Marietta Materials Inc:0000916076
+Keurig Dr Pepper Inc:0001418135
+Hartford Insurance Group Inc:0000874766
+Prudential Financial Inc:0001137774
+Western Digital Corp:0000106040
+Las Vegas Sands Corp:0001300514
+GE Healthcare Technologies Inc:0001932393
+Verisk Analytics Inc:0001442145
+Targa Resources Corp:0001389170
+Otis Worldwide Corp:0001781335
+WEC Energy Group Inc:0000783325
+VICI Properties Inc:0001705696
+Microchip Technology Inc:0000827054
+Fidelity National Information Services Inc:0001136893
+Consolidated Edison Inc:0001047862
+Lennar Corp:0001268896
+Lennar Corp:0000920760
+Xylem Inc:0001524472
+United Airlines Holdings Inc:0000100517
+Raymond James Financial Inc:0000720005
+PG&E Corp:0001004980
+SoFi Technologies Inc:0001818874
+Nucor Corp:0000947577
+Humana Inc:0000049071
+Dupont De Nemours Inc:0001666700
+Willis Towers Watson PLC:0001478452
+Willis Towers Watson PLC:0001140536
+Equifax Inc:0000033185
+Hewlett Packard Enterprise Co:0001645590
+Westinghouse Air Brake Technologies Corp:0000943452
+Estee Lauder Companies Inc:0001001250
+NRG Energy Inc:0001013871
+IQVIA Holdings Inc:0001478242
+ORIX Corp:0001070304
+State Street Corp:0000093751
+Tractor Supply Co:0000916365
+EQT Corp:0000033213
+Ventas Inc:0000740260
+Old Dominion Freight Line Inc:0000878927
+Ingersoll Rand Inc:0001699150
+Kraft Heinz Co:0001637459
+Insmed Inc:0001104506
+M&T Bank Corp:0000036270
+Symbotic Inc:0001837240
+Telefonica SA:0000814049
+Extra Space Storage Inc:0001289490
+Fomento Economico Mexicano SAB de CV:0001061736
+Dexcom Inc:0001093557
+Fifth Third Bancorp:0000035527
+ArcelorMittal SA:0001243429
+Iron Mountain Inc:0001612479
+Keysight Technologies Inc:0001601046
+Wipro Ltd:0001123799
+Pure Storage Inc:0001370710
+Vodafone Group PLC:0000839923
+Li Auto Inc:0001791706
+Expedia Group Inc:0001324424
+Synchrony Financial:0001601712
+EMCOR Group Inc:0000105634
+Kellanova:0000055067
+Comfort Systems USA Inc:0000885979
+ProShares UltraPro QQQ:0001676414
+W R Berkley Corp:0000011544
+Koninklijke Philips NV:0000313216
+Teck Resources Ltd:0000886986
+KB Financial Group Inc:0001445930
+VeriSign, Inc:0001014473
+Telefonaktiebolaget LM Ericsson:0000717826
+Rollins Inc:0000084839
+MongoDB Inc:0001441816
+General Mills Inc:0000040704
+HubSpot Inc:0001404655
+Pultegroup Inc:0000822416
+Zoom Communications Inc:0001330826
+Mettler-Toledo International Inc:0001037646
+PPL Corp:0000922224
+Teledyne Technologies Inc:0001094285
+HP Inc:0000047217
+Tradeweb Markets Inc:0001758730
+Huntington Bancshares Inc:0000049196
+Woodside Energy Group Ltd:0000844551
+Nokia Oyj:0000809116
+FirstEnergy Corp:0001031296
+STMicroelectronics NV:0000932787
+Equity Residential:0000906107
+Northern Trust Corp:0000827130
+Pinterest Inc:0001506293
+NetApp Inc:0001002047
+PTC Inc:0000857005
+Tower Semiconductor Ltd:0000928876
+Shinhan Financial Group Co Ltd:0001263043
+PPG Industries Inc:0000079879
+STERIS plc:0001757898
+International Paper Co:0000051434
+Samsara Inc:0001642896
+Fox Corp:0001754301
+Fox Corp:0001754301
+Markel Group Inc:0001096343
+Natera Inc:0001604821
+Williams-Sonoma Inc:0000719955
+First Citizens BancShares Inc (Delaware):0000798941
+Constellation Brands Inc:0001045993
+Regions Financial Corp:0001281761
+NVR Inc:0000906163
+Ulta Beauty Inc:0001403568
+Eversource Energy:0000072741
+TPG Inc:0001880661
+Leidos Holdings Inc:0001336920
+Insulet Corp:0001145197
+Toast Inc:0001650164
+Hubbell Inc:0000048898
+Tyler Technologies Inc:0000860731
+Jabil Inc:0000898293
+Tapestry Inc:0001116132
+T Rowe Price Group Inc:0001113169
+Nebius Group NV:0001446390
+Nebius Group NV:0001513845
+IREN Limited:0001878848
+First Solar Inc:0001274494
+Trade Desk Inc:0001671933
+SS&C Technologies Holdings Inc:0001402436
+Texas Pacific Land Corp:0001811074
+Flex Ltd:0000866374
+Teva Pharmaceutical Industries Ltd:0000818686
+SBA Communications Corp:0001685934
+Zillow Group Inc:0001617640
+Zillow Group Inc:0001617640
+Edison International:0000827052
+Biogen Inc:0000875045
+Nutanix Inc:0001618732
+Guidewire Software Inc:0001528396
+Royalty Pharma PLC:0001802768
+Steel Dynamics Inc:0001022671
+Global Payments Inc:0001123360
+Xpeng Inc:0001810997
+KeyCorp:0000091576
+ON Semiconductor Corp:0001097864
+GoDaddy Inc:0001609711
+Loews Corp:0000060086
+Zimmer Biomet Holdings Inc:0001136869
+Tenaris SA:0001190723
+Genuine Parts Co:0000040987
+Unity Software Inc:0001810806
+Tyson Foods Inc:0000100493
+Lennox International Inc:0001069202
+Ecopetrol SA:0001097539
+Lululemon Athletica Inc:0001348051
+Trimble Inc:0000864749
+Halliburton Co:0001361627
+Ralph Lauren Corp:0001037038
+Packaging Corp of America:0000075677
+Gartner Inc:0000749251
+F5 Inc:0001048695
+West Pharmaceutical Services Inc:0000105770
+NiSource Inc:0000823392
+IONQ Inc:0001824920
+InterContinental Hotels Group PLC:0000858446
+Coca-Cola Femsa SAB de CV:0000910631
+Pentair PLC:0000077360
+Genmab A/S:0001434265
+Teradyne Inc:0000097210
+Invitation Homes Inc:0001687229
+Waters Corp:0001000697
+McCormick & Company Inc:0000857467
+McCormick & Company Inc:0000063754
+United Therapeutics Corp:0001082554
+Weyerhaeuser Co:0000106535
+Somnigroup International Inc:0001206264
+Principal Financial Group Inc:0001126328
+FTAI Aviation Ltd:0001942420
+GlobalFoundries Inc:0001709048
+Gen Digital Inc:0000849399
+TransUnion:0001552033
+US Foods Holding Corp:0001520189
+Jacobs Solutions Inc:0000052988
+Snap-On Inc:0000091440
+Warner Music Group Corp:0001319161
+Rivian Automotive Inc:0001874178
+News Corp:0001564708
+News Corp:0001564708
+Korea Electric Power Corp:0000887225
+NIO Inc:0001736541
+United Microelectronics Corp:0001033767
+Essex Property Trust Inc:0000920522
+Expeditors International of Washington Inc:0000746515
+LyondellBasell Industries NV:0001489393
+LyondellBasell Industries NV:0001489393
+Erie Indemnity Co:0000922621
+Southwest Airlines Co:0000092380
+Posco Holdings Inc:0000889132
+International Flavors & Fragrances Inc:0000051253
+Fortive Corp:0001659166
+Telkom Indonesia (Persero) Tbk PT:0001001807
+Performance Food Group Co:0001618673
+Incyte Corp:0000879169
+Alliant Energy Corp:0000352541
+Mid-America Apartment Communities Inc:0000912595
+Yum China Holdings Inc:0001673358
+Smith & Nephew PLC:0000845982
+Zebra Technologies Corp:0000877212
+Tenet Healthcare Corp:0000070318
+RPM International Inc:0000110621
+Sun Communities Inc:0000912593
+Watsco Inc:0000105016
+Watsco Inc:0000105016
+TechnipFMC PLC:0001681459
+XPO Inc:0001166003
+Fidelity National Financial Inc:0001331875
+Okta Inc:0001660134
+Twilio Inc:0001447669
+Illumina Inc:0001110803
+nVent Electric PLC:0001720635
+Masco Corp:0000062996
+Reliance Inc:0000861884
+MasTec Inc:0000015615
+Kimco Realty Corp:0000879101
+WP Carey Inc:0001025378
+Omnicom Group Inc:0000029989
+Fresenius Medical Care AG:0001020404
+Textron Inc:0000217346
+Jones Lang LaSalle Inc:0001037976
+East West Bancorp Inc:0001069157
+Western Midstream Partners LP:0001423902
+Roku Inc:0001428439
+Woodward Inc:0000108312
+Woori Financial Group Inc:0001264136
+Houlihan Lokey Inc:0001302215
+ITT Inc:0000216228
+Hologic Inc:0000859737
+Graco Inc:0000042888
+Entegris Inc:0001101302
+Annaly Capital Management Inc:0001043219
+Neurocrine Biosciences Inc:0000914475
+Ryan Specialty Holdings Inc:0001849253
+Everest Group Ltd:0001095073
+Medpace Holdings Inc:0001668397
+Hormel Foods Corp:0000048465
+Jefferies Financial Group Inc:0000096223
+Hyatt Hotels Corp:0001468174
+Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP:0001170858
+Toll Brothers Inc:0000794170
+ICON PLC:0001060373
+Summit Therapeutics Inc:0001599298
+Gaming and Leisure Properties Inc:0001575965
+J B Hunt Transport Services Inc:0000728535
+Regency Centers Corp:0000910606
+Snap Inc:0001564408
+Factset Research Systems Inc:0001013237
+Manhattan Associates Inc:0001056696
+Lincoln Electric Holdings Inc:0000059527
+Kratos Defense and Security Solutions Inc:0001069258
+Lamar Advertising Co:0001609474
+Nordson Corp:0000072331
+Fabrinet:0001408710
+Healthpeak Properties Inc:0000765880
+Unum Group:0000005513
+Rentokil Initial PLC:0000930157
+Wynn Resorts Ltd:0001174922
+Royal Gold Inc:0001590877
+Owens Corning:0001370946
+Omega Healthcare Investors Inc:0000888491
+UDR Inc:0000074208
+Reinsurance Group of America Inc:0000898174
+Paycom Software Inc:0001590955
+TD Synnex Corp:0001177394
+IDEX Corp:0001084031
+Joby Aviation Inc:0001819848
+Dr Reddy's Laboratories Ltd:0001135951
+Sprouts Farmers Market Inc:0001575515
+Pool Corp:0000945841
+Plains All American Pipeline LP:0001070423
+Host Hotels & Resorts Inc:0000314733
+Host Hotels & Resorts Inc:0000314733
+Sociedad Quimica y Minera de Chile SA:0000909037
+Stanley Black & Decker Inc:0000093556
+RBC Bearings Inc:0001324948
+Lumentum Holdings Inc:0001633978
+Universal Health Services Inc:0000352915
+GameStop Corp:0001326380
+Equity LifeStyle Properties Inc:0000895417
+Penske Automotive Group Inc:0001019849
+MP Materials Corp:0001437199
+Norwegian Cruise Line Holdings Ltd:0001513761
+Jack Henry & Associates Inc:0000779152
+Stifel Financial Corp:0000720672
+Globe Life Inc:0000320335
+Wayfair Inc:0001616707
+First Horizon Corp:0000036966
+Westlake Corp:0001262823
+Advanced Drainage Systems Inc:0001604028
+Service Corporation International:0001171314
+Aurora Innovation Inc:0001828108
+Renaissancere Holdings Ltd:0000913144
+J M Smucker Co:0000091419
+Viatris Inc:0001792044
+Permian Resources Corp:0001658566
+Skyworks Solutions Inc:0000004127
+Ishares Msci Eafe Small Cap Index Fund:0001163659
+Mueller Industries Inc:0000089439
+Ovintiv Inc:0001792580
+SEI Investments Co:0000350894
+Generac Holdings Inc:0001474735
+Procore Technologies Inc:0001611052
+Mosaic Co:0001285785
+Huntington Ingalls Industries Inc:0001501585
+Nuscale Power Corp:0001822966
+Embraer SA:0001355444
+Exelixis Inc:0000939767
+Wesco International Inc:0000929008
+Morningstar Inc:0001289419
+Hasbro Inc:0001122177
+Essential Utilities Inc:0000078128
+Rambus Inc:0000917273
+Grupo Aeroportuario del Pacifico SAB de CV:0001347557
+A O Smith Corp:0000091142
+U-Haul Holding Co:0000004457
+Pinnacle West Capital Corp:0000772527
+Penumbra Inc:0001321732
+Pilgrims Pride Corp:0000802481
+KT Corp:0000892450
+Exact Sciences Corp:0001124140
+Kinsale Capital Group Inc:0001669162
+Pegasystems Inc:0001013857
+IREN Ltd:0001878848
+Wix.Com Ltd:0001576789
+Revvity Inc:0000031791
+Webster Financial Corp:0000801337
+Invesco Ltd:0000914208
+Ionis Pharmaceuticals Inc:0000874015
+MACOM Technology Solutions Holdings Inc:0001493594
+Old Republic International Corp:0000074260
+Sterling Infrastructure Inc:0000874238
+Sterling Infrastructure Inc:0000874238
+Moderna Inc:0001682852
+Floor & Decor Holdings Inc:0001507079
+Interpublic Group of Companies Inc:0000051644
+Western Alliance Bancorp:0001212545
+MGM Resorts International:0000789570
+Tetra Tech Inc:0000831641
+Molina Healthcare Inc:0001179929
+Madrigal Pharmaceuticals Inc:0001157601
+New York Times Co:0000071691
+Ensign Group Inc:0001125376
+Vipshop Holdings Ltd:0001529192
+Molson Coors Beverage Co:0000024545
+Sportradar Group AG:0001836470
+Watts Water Technologies Inc:0000795403
+Frontier Communications Parent Inc:0000020520
+Paused at 15:32:10:0000927066
+Elanco Animal Health Inc:0001739104
+Elastic NV:0001707753
+Paylocity Holding Corp:0001591698
+YPF SA:0000904851
+Carmax Inc:0001170010
+Lattice Semiconductor Corp:0000855658
+Pearson PLC:0000942219
+UMB Financial Corp:0000101382
+Match Group Inc:0000891103
+Chart Industries Inc:0000892553
+Levi Strauss & Co:0000094845
+Eastgroup Properties Inc:0000049600
+Wintrust Financial Corp:0001015328
+Halozyme Therapeutics Inc:0001159036
+Nova Ltd:0001109345
+OGE Energy Corp:0001021635
+Oshkosh Corp:0001543589
+Primerica Inc:0001475922
+New Oriental Education & Technology Group Inc:0001372920
+Federal Realty Investment Trust:0000034903
+Liberty Broadband Corp:0001611983
+Epam Systems Inc:0001352010
+Range Resources Corp:0000315852
+Old National Bancorp:0000707179
+Lithia Motors Inc:0001023128
+Mohawk Industries Inc:0000851968
+SK Telecom Co Ltd:0001015650
+Planet Fitness Inc:0001637207
+Gap Inc:0000039911
+GitLab Inc:0001653482
+InterDigital Inc:0000888165
+Zions Bancorporation NA:0000109380
+Henry Schein Inc:0001000228
+Ollie's Bargain Outlet Holdings Inc:0001639300
+Five Below Inc:0001177609
+Lyft Inc:0001759509
+elf Beauty Inc:0001600033
+LKQ Corp:0001065696
+Vornado Realty Trust:0000899689
+Ingredion Inc:0001046257
+Qorvo Inc:0001604778
+Bio-Techne Corp:0000842023
+Modine Manufacturing Co:0000067347
+Lamb Weston Holdings Inc:0001721775
+NNN REIT Inc:0000751364
+Millicom International Cellular SA:0000912958
+MKS Inc:0001049502
+Healthequity Inc:0001428336
+National Fuel Gas Co:0000070145
+Globus Medical Inc:0001237831
+Harmony Gold Mining Company Ltd:0001023514
+PJT Partners Inc:0001626115
+Toro Co:0000737758
+Simpson Manufacturing Co Inc:0000920371
+Masimo Corp:0000937556
+Murphy USA Inc:0001573516
+Ryder System Inc:0000085961
+Jazz Pharmaceuticals PLC:0001232524
+NewMarket Corp:0001282637
+Sunoco LP:0001552275
+Federal Signal Corp:0000277509
+Shift4 Payments Inc:0001794669
+Hecla Mining Co:0000046539
+Eagle Materials Inc:0000918646
+Eastman Chemical Co:0000915389
+Informatica Inc:0001868778
+Nice Ltd:0001003935
+SiTime Corp:0001451809
+GDS Holdings Ltd:0001526125
+Lincoln National Corp:0000059558
+Light & Wonder Inc:0000750004
+Valmont Industries Inc:0000102729
+Flowserve Corp:0000030625
+Pinnacle Financial Partners Inc:0001167660
+Kyndryl Holdings Inc:0001867072
+Dycom Industries Inc:0000067215
+IES Holdings Inc:0001048268
+Voya Financial Inc:0001535929
+Genpact Ltd:0001398659
+Installed Building Products Inc:0001580905
+UGI Corp:0000884614
+Ternium SA:0001342874
+Regencell Bioscience Holdings Ltd:0001829667
+Synovus Financial Corp:0000018349
+Construction Partners Inc:0001718227
+Blue Owl Capital Corp:0001655888
+Fortune Brands Innovations Inc:0001519751
+Kinetik Holdings Inc:0001692787
+Janus Henderson Group PLC:0001274173
+Companhia Paranaense de Energia:0000924250
+Guardant Health Inc:0001576280
+First Industrial Realty Trust Inc:0000921825
+STAG Industrial Inc:0001479094
+Marketaxess Holdings Inc:0001114363
+Middleby Corp:0000769520
+TAL Education Group:0001499620
+Repligen Corp:0000730272
+Idacorp Inc:0001075493
+H & R Block Inc:0000012659
+First American Financial Corp:0001472787
+Fluor Corp:0001124198
+MSA Safety Inc:0000066570
+Opendoor Technologies Inc:0001801169
+Louisiana-Pacific Corp:0000060519
+Jackson Financial Inc:0001822993
+Littelfuse Inc:0000889331
+Universal Display Corp:0001005284
+Primoris Services Corp:0001361538
+MARA Holdings Inc:0001048286
+Riot Platforms Inc:0001167419
+Wyndham Hotels & Resorts Inc:0001722684
+Paused at 15:32:10:0000840489
+Upstart Holdings Inc:0001647639
+Element Solutions Inc:0001590714
+MGIC Investment Corp:0000876437
+Brinker International Inc:0000703351
+PennyMac Financial Services Inc:0001745916
+Rithm Capital Corp:0001556593
+Rhythm Pharmaceuticals Inc:0001649904
+Urban Outfitters Inc:0000912615
+Moog Inc:0000067887
+Moog Inc:0000067887
+Red Rock Resorts Inc:0001653653
+SiteOne Landscape Supply Inc:0001650729
+Gentex Corp:0000355811
+Healthcare Realty Trust Inc:0001361189
+Sanmina Corp:0000897723
+Trex Company Inc:0001069878
+Vontier Corp:0001786842
+Hanover Insurance Group Inc:0000944695
+KBR Inc:0001357615
+Prosperity Bancshares Inc:0001068851
+Nexstar Media Group Inc:0001142417
+Gerdau SA:0001073404
+UiPath Inc:0001734722
+Piper Sandler Companies:0001230245
+Sibanye Stillwater Ltd:0001786909
+Global-E Online Ltd:0001835963
+Chord Energy Corp:0001486159
+Stride Inc:0001157408
+SentinelOne Inc:0001583708
+Graphic Packaging Holding Co:0001408075
+RLI Corp:0000084246
+GATX Corp:0000040211
+Matador Resources Co:0001520006
+TXNM Energy Inc:0000735250
+Group 1 Automotive Inc:0001031203
+Valley National Bancorp:0000714310
+Onto Innovation Inc:0000704532
+WEX Inc:0001309108
+Resideo Technologies Inc:0001740332
+ETSY Inc:0001370637
+SLM Corp:0001032033
+Essential Properties Realty Trust Inc:0001728951
+Moelis & Co:0001596967
+Grand Canyon Education Inc:0001434588
+Main Street Capital Corp:0001396440
+GXO Logistics Inc:0001852244
+Ufp Industries Inc:0000912767
+FNB Corp:0000037808
+FNB Corp:0000037808
+Quantumscape Corp:0001811414
+VF Corp:0000103379
+Avidity Biosciences Inc:0001599901
+RadNet Inc:0000790526
+Lumen Technologies Inc:0000018926
+Southwest Gas Holdings Inc:0001692115
+Glacier Bancorp Inc:0000868671
+Impinj Inc:0001114995
+Thor Industries Inc:0000730263
+iRhythm Technologies Inc:0001388658
+Mirion Technologies Inc:0001809987
+Mattel Inc:0000275695
+Post Holdings Inc:0001530950
+Lear Corp:0000842162
+Jfrog Ltd:0001800667
+Teleflex Inc:0000096943
+Vail Resorts Inc:0000812011
+Ormat Technologies Inc:0001296445
+ESCO Technologies Inc:0000866706
+Meritage Homes Corp:0000833079
+Semtech Corp:0000838854
+Timken Co:0000098362
+Virtu Financial Inc:0001592386
+Itron Inc:0000780571
+Hancock Whitney Corp:0000750577
+FTI Consulting Inc:0000887936
+Kilroy Realty Corp:0001025996
+United Bankshares Inc:0001676667
+TTM Technologies Inc:0001116942
+Valvoline Inc:0001674910
+StoneCo Ltd:0001745431
+MSC Industrial Direct Co Inc:0001003078
+Enphase Energy Inc:0001463101
+Q2 Holdings Inc:0001410384
+TG Therapeutics Inc:0001001316
+Whirlpool Corp:0001051034
+Noble Corporation PLC:0001895262
+First Financial Bankshares Inc:0000036029
+Marzetti Co:0000057515
+Hexcel Corp:0000717605
+Sealed Air Corp:0001012100
+Maximus Inc:0001032220
+Nov Inc:0001021860
+Merit Medical Systems Inc:0000856982
+Rush Street Interactive Inc:0001793659
+Kite Realty Group Trust:0001286043
+Grupo Financiero Galicia SA:0001114700
+Trump Media & Technology Group Corp:0001849635
+Intercorp Financial Services Inc:0001615903
+Qualys Inc:0001107843
+Science Applications International Corp:0001571123
+Granite Construction Inc:0000861459
+PTC Therapeutics Inc:0001070081
+Glaukos Corp:0001192448
+Kirby Corp:0000056047
+Magnolia Oil & Gas Corp:0001698990
+Icahn Enterprises LP:0000813762
+SL Green Realty Corp:0001040971
+Macy's Inc:0000794367
+Selective Insurance Group Inc:0000230557
+Radian Group Inc:0000890926
+Sonoco Products Co:0000091767
+Oscar Health Inc:0001568651
+Silgan Holdings Inc:0000849869
+New Jersey Resources Corp:0000356309
+FMC Corp:0000037785
+Sensata Technologies Holding PLC:0001422427
+Weatherford International PLC:0001603923
+Enpro Inc:0001164863
+ServisFirst Bancshares Inc:0001430723
+Macerich Co:0000912242
+Landstar System Inc:0000853816
+Spirit AeroSystems Holdings Inc:0001364885
+F&G Annuities & Life Inc:0001934850
+Nelnet Inc:0001258602
+Kingsoft Cloud Holdings Ltd:0001795589
+ONE Gas Inc:0001587732
+Mercury Systems Inc:0001049521
+Sasol Ltd:0000314590
+Kontoor Brands Inc:0001086067
+KB Home:0000795266
+Workiva Inc:0001445305
+Spire Inc:0001126956
+Rush Enterprises Inc:0001012019
+White Mountains Insurance Group Ltd:0000776867
+Silicon Laboratories Inc:0001038074
+Champion Homes Inc:0000090896
+Acushnet Holdings Corp:0001672013
+Laureate Education Inc:0000912766
+Telephone and Data Systems Inc:0000096966
+RH:0001528849
+EPR Properties:0001045450
+Array Digital Infrastructure Inc:0000824468
+Mercury General Corp:0000064996
+Sensient Technologies Corp:0000310142
+International Bancshares Corp:0000315709
+Viasat Inc:0000797721
+PLDT Inc:0000078150
+Lemonade Inc:0001433926
+WillScot Holdings Corp:0001647088
+Shake Shack Inc:0001620533
+Franklin Electric Co Inc:0000038725
+SkyWest Inc:0000793733
+Federated Hermes Inc:0001056288
+Golar LNG Ltd:0001207179
+Paymentus Holdings Inc:0001841156
+Novanta Inc:0001076930
+Melco Resorts & Entertainment Ltd:0001381640
+SPS Commerce Inc:0001092699
+Hilton Grand Vacations Inc:0001674168
+EnerSys:0001289308
+OSI Systems Inc:0001039065
+Travel + Leisure Co:0000867527
+Rayonier Inc:0000052827
+PVH Corp:0000078239
+Mueller Water Products Inc:0001291000
+National Storage Affiliates Trust:0001618563
+Murphy Oil Corp:0000717423
+M/I Homes Inc:0000799292
+Independence Realty Trust Inc:0001466085
+Inter & Co Inc:0001864163
+Qfin Holdings Inc:0001741530
+Texas Capital Bancshares Inc:0001077428
+Verra Mobility Corp:0001682745
+Korn Ferry:0000056679
+Vista Energy SAB de CV:0001762506
+Tanger Inc:0000899715
+United Community Banks Inc:0000857855
+Insight Enterprises Inc:0000932696
+Signet Jewelers Ltd:0000832988
+Valaris Ltd:0000314808
+Golub Capital BDC Inc:0001476765
+Sunrun Inc:0001469367
+Rush Enterprises Inc:0001012019
+Plexus Corp:0000785786
+United States Lime & Minerals Inc:0000082020
+Plains GP Holdings LP:0001581990
+National Health Investors Inc:0000877860
+TFS Financial Corp:0001381668
+Eastern Bankshares Inc:0001810546
+Intapp Inc:0001565687
+Euronet Worldwide Inc:0001029199
+Freshworks Inc:0001544522
+Harley-Davidson Inc:0000793952
+Harley-Davidson Inc:0000793952
+Protagonist Therapeutics Inc:0001377121
+Kadant Inc:0000886346
+Hawkins Inc:0000046250
+Integer Holdings Corp:0001114483
+National Beverage Corp:0000069891
+PriceSmart Inc:0001041803
+Powell Industries Inc:0000080420
+Griffon Corp:0000050725
+Patrick Industries Inc:0000076605
+VSE Corp:0000102752
+Remitly Global Inc:0001782170
+PBF Energy Inc:0001534504
+Exponent Inc:0000851520
+Envista Holdings Corp:0001757073
+Genworth Financial Inc:0001276520
+Ultrapar Participacoes SA:0001094972
+HA Sustainable Infrastructure Capital Inc:0001398699
+Scotts Miracle-Gro Co:0000825542
+Bancorp Inc:0001295401
+Otter Tail Corp:0001466593
+Independent Bank Corp (Massachusetts):0000776901
+Highwoods Properties Inc:0001427210
+Terex Corp:0000097216
+COPT Defense Properties:0000860546
+IPG Photonics Corp:0001111928
+First BanCorp:0001057706
+Fulton Financial Corp:0000700564
+MoonLake Immunotherapeutics:0001821586
+Tegna Inc:0000039899
+Visteon Corp:0001111335
+Interparfums Inc:0000822663
+Tutor Perini Corp:0000077543
+Transportadora de Gas del Sur SA:0001312956
+Matson Inc:0000003453
+H.B. Fuller Company:0000039368
+TriNet Group Inc:0000937098
+Warby Parker Inc:0001504776
+Polaris Inc:0000931015
+Magnite Inc:0001407230
+Warrior Met Coal Inc:0001691303
+Transocean Ltd:0001729635
+Ligand Pharmaceuticals Inc:0000886163
+MDU Resources Group Inc:0000067716
+Peloton Interactive Inc:0001639825
+JOYY Inc:0001530238
+ICU Medical Inc:0000883984
+UniFirst Corp:0000717954
+Brightstar Lottery PLC:0001619762
+SM Energy Co:0000893538
+Green Brick Partners Inc:0001373670
+Telecom Argentina SA:0000932470
+Potlatchdeltic Corp:0001338749
+Geo Group Inc:0000923796
+Scorpio Tankers Inc:0001483934
+Gulfport Energy Corp:0000874499
+Weibo Corp:0001595761
+Silicon Motion Technology Corp:0001329394
+Worthington Enterprises Inc:0000108516
+McGrath RentCorp:0000752714
+HUTCHMED (China) Ltd:0001648257
+WSFS Financial Corp:0000828944
+MGE Energy Inc:0001161728
+Enova International Inc:0001529864
+Goosehead Insurance Inc:0001726978
+Openlane Inc:0001395942
+Tootsie Roll Industries Inc:0000098677
+Planet Labs PBC:0001836833
+St Joe Co:0000745308
+Extreme Networks Inc:0001078271
+USA Compression Partners LP:0001522727
+WesBanco Inc:0000203596
+Genius Sports Ltd:0001834489
+Perrigo Company PLC:0001585364
+IAC Inc:0001800227
+Medical Properties Trust Inc:0001391432
+Olin Corp:0000074303
+Greif Inc:0000043920
+Greif Inc:0001427221
+Walker & Dunlop Inc:0001497770
+Flowers Foods Inc:0001128928
+Yeti Holdings Inc:0001670592
+RXO Inc:0001929561
+Simmons First National Corp:0000090498
+TowneBank:0001505823
+Ultragenyx Pharmaceutical Inc:0001515673
+Synaptics Inc:0000817720
+RingCentral Inc:0001384905
+Tidewater Inc:0000098222
+WD-40 Co:0000105132
+FB Financial Corp:0001649749
+Manchester United PLC:0001549107
+PENN Entertainment Inc:0000921738
+Privia Health Group Inc:0001759655
+MYR Group Inc:0000700923
+LXP Industrial Trust:0000910108
+DENTSPLY SIRONA Inc:0000818479
+Simply Good Foods Co:0001702744
+First Advantage Corp:0001210677
+Excelerate Energy Inc:0001888447
+Sonic Automotive Inc:0001043509
+Quantum Computing Inc:0001758009
+Marriott Vacations Worldwide Corp:0001524358
+Organon & Co:0001821825
+Seacoast Banking Corporation of Florida:0000730708
+Immunitybio Inc:0001326110
+Western Union Co:0001365135
+Freshpet Inc:0001395803
+Garrett Motion Inc:0001735707
+Marqeta Inc:0001522540
+VNET Group Inc:0001136846
+Provident Financial Services Inc:0001178970
+iQIYI Inc:0001722608
+Veracyte Inc:0001384101
+Standex International Corp:0000310354
+Power Integrations Inc:0000833640
+Rumble Inc:0001830081
+Paused at 15:32:10:0001688568
+Northern Oil and Gas Inc:0001104485
+Globant SA:0001557860
+Wolverine World Wide Inc:0000110471
+Amicus Therapeutics Inc:0001178879
+Supernus Pharmaceuticals Inc:0001356576
+FormFactor Inc:0001039399
+Haemonetics Corp:0000313143
+Newell Brands Inc:0000814453
+Huron Consulting Group Inc:0001289848
+WaFd Inc:0000936528
+Quaker Chemical Corp:0000081362
+Goodyear Tire & Rubber Co:0000042582
+First Financial Bancorp:0000708955
+Oceaneering International Inc:0000073756
+Boston Beer Company Inc:0000949870
+Park Hotels & Resorts Inc:0001617406
+LCI Industries:0000763744
+Sapiens International Corporation NV:0000885740
+International Seaways Inc:0001679049
+Inspire Medical Systems Inc:0001609550
+Trustmark Corp:0000036146
+Materion Corp:0001104657
+Patria Investments Ltd:0001825570
+Vicor Corp:0000751978
+IHS Holding Ltd:0001876183
+Tripadvisor Inc:0001526520
+Eos Energy Enterprises Inc:0001805077
+Hci Group Inc:0001400810
+TMC the metals company Inc:0001798562
+Hub Group Inc:0000940942
+Steven Madden Ltd:0000913241
+First Merchants Corp:0000712534
+Enerpac Tool Group Corp:0000006955
+Upwork Inc:0001627475
+NextNav Inc:0001865631
+Star Bulk Carriers Corp:0001386716
+Trinity Industries Inc:0000099780
+Polestar Automotive Holding UK PLC:0001884082
+John Wiley & Sons Inc:0000107140
+John Wiley & Sons Inc:0000107140
+HanesBrands Inc:0001359841
+NBT Bancorp Inc:0000790359
+Stock Yards Bancorp Inc:0000835324
+Enterprise Financial Services Corp:0001025835
+First Bancorp (North Carolina):0000811589
+Premier Inc:0001577916
+Solaris Energy Infrastructure Inc:0001697500
+IDEAYA Biosciences Inc:0001676725
+Helmerich and Payne Inc:0000046765
+Patterson-UTI Energy Inc:0000889900
+Kulicke and Soffa Industries Inc:0000056978
+Evertec Inc:0001559865
+Gilat Satellite Networks Ltd:0000882095
+Formula Systems 1985 Ltd:0001045986
+EverCommerce Inc:0001853145
+DoubleVerify Holdings Inc:0001819928
+Nomad Foods Ltd:0001651717
+Galapagos NV:0001421876
+Vital Farms Inc:0001579733
+Recursion Pharmaceuticals Inc:0001601830
+Innodata Inc:0000903651
+LeMaitre Vascular Inc:0001158895
+Hawaiian Electric Industries Inc:0001545615
+HNI Corp:0000048287
+Under Armour Inc:0001336917
+Under Armour Inc:0001267278
+Vishay Intertechnology Inc:0000103730
+WisdomTree Inc:0001385360
+Stewart Information Services Corp:0000094344
+Teradata Corp:0000816761
+ePlus inc:0001022408
+Companhia Siderurgica Nacional SA:0001049659
+J&J Snack Foods Corp:0000785956
+QuidelOrtho Corp:0001906324
+Energizer Holdings Inc:0001632790
+Yelp Inc:0001345016
+Minerals Technologies Inc:0000891014
+LendingClub Corp:0001234295
+O-I Glass Inc:0000812074
+Genesis Energy LP:0001022321
+Five9 Inc:0001288847
+Nicolet Bankshares Inc:0001174850
+Solaredge Technologies Inc:0001419612
+Pitney Bowes Inc:0000078814
+Ondas Holdings Inc:0001646188
+Insperity Inc:0001000753
+Strategic Education Inc:0001013934
+Plug Power Inc:0001093691
+Bank of NT Butterfield & Son Ltd:0001653242
+Steelcase Inc:0001050825
+Iridium Communications Inc:0001418819
+OFG Bancorp:0001030469
+Hillman Solutions Corp:0001822492
+Trupanion Inc:0001371285
+UP Fintech Holding Ltd:0001756699
+Knowles Corp:0001587523
+National Vision Holdings Inc:0001710155
+Hertz Global Holdings Inc:0001657853
+Hertz Global Holdings Inc:0001657853
+LegalZoom.com Inc:0001286139
+Sonos Inc:0001314727
+Progyny Inc:0001551306
+Kohls Corp:0000885639
+Horace Mann Educators Corp:0000850141
+Sunstone Hotel Investors Inc:0001295810
+Harmony Biosciences Holdings Inc:0001802665
+Sylvamo Corp:0001856485
+Dyne Therapeutics Inc:0001818794
+Monarch Casino & Resort Inc:0000907242
+JetBlue Airways Corp:0001158463
+Wendy's Co:0000030697
+DXP Enterprises Inc:0001020710
+Progress Software Corp:0000876167
+Netscout Systems Inc:0001078075
+Liberty Energy Inc:0001694028
+First Commonwealth Financial Corp:0000712537
+Par Pacific Holdings Inc:0000821483
+Winmark Corp:0000908315
+Weis Markets Inc:0000105418
+ManpowerGroup Inc:0000871763
+Sarepta Therapeutics Inc:0000873303
+NCR Voyix Corp:0000070866
+Topgolf Callaway Brands Corp:0000837465
+Gibraltar Industries Inc:0000912562
+United Natural Foods Inc:0001020859
+Mister Car Wash Inc:0001853513
+Enovix Corp:0001828318
+ZIM Integrated Shipping Services Ltd:0001654126
+Imax Corp:0000921582
+Hillenbrand Inc:0001417398
+Global Partners LP:0001323468
+Liveramp Holdings Inc:0000733269
+Netstreit Corp:0001798100
+PAR Technology Corp:0000708821
+Fresh Del Monte Produce Inc:0001047340
+Werner Enterprises Inc:0000793074
+H2O America:0000766829
+Immunocore Holdings PLC:0001671927
+Revolve Group Inc:0001746618
+Interface Inc:0000715787
+Paused at 15:32:11:0001298946
+Northwest Natural Holding Co:0001733998
+Vericel Corp:0000887359
+IDT Corp:0001005731
+Live Oak Bancshares Inc:0001462120
+MannKind Corp:0000899460
+Grocery Outlet Holding Corp:0001771515
+LTC Properties Inc:0000887905
+Twist Bioscience Corp:0001581280
+10X Genomics Inc:0001770787
+Lakeland Financial Corp:0001268947
+Paused at 15:32:11:0001599617
+Veeco Instruments Inc:0000103145
+Innovative Industrial Properties Inc:0001677576
+Dynex Capital Inc:0000826675
+PC Connection Inc:0001050377
+Clover Health Investments Corp:0001801170
+Papa John's International Inc:0000901491
+Upbound Group Inc:0000933036
+Phibro Animal Health Corp:0001069899
+Kennametal Inc:0000055242
+Vera Therapeutics Inc:0001831828
+First Trust BuyWrite Income ETF:0001502753
+Liberty Latin America Ltd:0001712184
+Getty Realty Corp:0001052752
+Ziff Davis Inc:0001084048
+Ziff Davis Inc:0001084048
+UFP Technologies Inc:0000914156
+Stellar Bancorp Inc:0001473844
+1st Source Corp:0000034782
+Iperionx Ltd:0001898601
+Lindsay Corp:0000836157
+German American Bancorp Inc:0000714395
+Tennant Co:0000097134
+Select Medical Holdings Corp:0001320414
+Universal Technical Institute Inc:0001261654
+Elme Communities:0000104894
+Sally Beauty Holdings Inc:0001368458
+Rogers Corp:0000084748
+PagerDuty Inc:0001568100
+Omnicell Inc:0000926326
+GoodRx Holdings Inc:0001809519
+Fubotv Inc:0001484769
+nLIGHT Inc:0001124796
+Republic Bancorp Inc:0000921557
+Jumia Technologies AG:0001756708
+S&T Bancorp Inc:0000719220
+Navios Maritime Partners LP:0001415921
+Trico Bancshares:0000356171
+World Kinect Corp:0000789460
+Himax Technologies Inc:0001342338
+Evolv Technologies Holdings Inc:0001805385
+Distribution Solutions Group Inc:0000058086
+National Bank Holdings Corp:0001475841
+Greenbrier Companies Inc:0000923120
+Kimbell Royalty Partners LP:0001657788
+Novocure Ltd:0001645113
+PROG Holdings Inc:0001808834
+Global Industrial Co:0000945114
+Maxlinear Inc:0001288469
+Phreesia Inc:0001412408
+Janux Therapeutics Inc:0001817713
+Schrodinger Inc:0001490978
+Pediatrix Medical Group Inc:0000893949
+La-Z-Boy Inc:0000057131
+Teladoc Health Inc:0001362953
+Novavax Inc:0001000694
+MillerKnoll Inc:0000066382
+Universal Corp:0000102037
+Pebblebrook Hotel Trust:0001474098
+Forestar Group Inc:0001406587
+Fluence Energy Inc:0001868941
+EVgo Inc:0001821159
+Kamada Ltd:0001567529
+Natural Resource Partners LP:0001171486
+Photronics Inc:0000810136
+Playtika Holding Corp:0001828016
+JinkoSolar Holding Co Ltd:0001481513
+STAAR Surgical Co:0000718937
+Tilray Brands Inc:0001731348
+Ingles Markets Inc:0000050493
+Ellington Financial Inc:0001411342
+Intellia Therapeutics Inc:0001652130
+Evotec SE:0001412558
+QCR Holdings Inc:0000906465
+P10 Inc:0001841968
+Virtus Investment Partners Inc:0000883237
+Prospect Capital Corp:0001287032
+Navient Corp:0001593538
+Leggett & Platt Inc:0000058492
+UMH Properties Inc:0000752642
+Spectrum Brands Holdings Inc:0000109177
+Vimeo Inc:0001837686
+Rapid7 Inc:0001560327
+Stoke Therapeutics Inc:0001623526
+Navitas Semiconductor Corp:0001821769
+Gogo Inc:0001637823
+Fastly Inc:0001517413
+Marcus & Millichap Inc:0001578732
+MRC Global Inc:0001439095
+Hello Group Inc:0001610601
+Verint Systems Inc:0001166388
+Westamerica Bancorp:0000311094
+ProAssurance Corp:0001127703
+Innoviva Inc:0001080014
+Suburban Propane Partners LP:0001005210
+Figs Inc:0001846576
+US Physical Therapy Inc:0000885978
+Pacira Biosciences Inc:0001396814
+Ultra Clean Holdings Inc:0001275014
+Proto Labs Inc:0001332561
+RealReal Inc:0001573221
+Precigen Inc:0001356090
+Integra Lifesciences Holdings Corp:0000917520
+SFL Corporation Ltd:0001289877
+G-III Apparel Group Ltd:0000821002
+RLJ Lodging Trust:0001511337
+Grupo Televisa SAB:0000912892
+Neogen Corp:0000711377
+Amprius Technologies Inc:0001899287
+Amprius Technologies Inc:0001899287
+Gorman-Rupp Co:0000042682
+Global Ship Lease Inc:0001415948
+Dynavax Technologies Corp:0001029142
+Harmonic Inc:0000851310
+MidCap Financial Investment Corp:0001278752
+Healthcare Services Group Inc:0000731012
+Trinity Capital Inc:0001786108
+Sabine Royalty Trust:0000710752
+Navigator Holdings Ltd:0001581804
+Piedmont Realty Trust Inc:0001042776
+Stepan Co:0000094049
+OPKO Health Inc:0000944809
+Radware Ltd:0001094366
+Hudson Pacific Properties Inc:0001482512
+Yext Inc:0001614178
+Montrose Environmental Group Inc:0001643615
+Safety Insurance Group Inc:0001172052
+Peoples Bancorp Inc:0000318300
+PennyMac Mortgage Investment Trust:0001464423
+Microvast Holdings Inc:0001760689
+Sweetgreen Inc:0001477815
+EZCORP Inc:0000876523
+Orchid Island Capital Inc:0001518621
+Pursuit Attractions and Hospitality Inc:0001071986
+Neogenomics Inc:0001077183
+Heidrick & Struggles International Inc:0001066605
+MFA Financial Inc:0001055160
+Encore Capital Group Inc:0001084961
+OceanFirst Financial Corp:0001004702
+RPC Inc:0000742278
+Willis Lease Finance Corp:0001018164
+Enviri Corp:0000045876
+REX American Resources Corp:0000744187
+Taboola.com Ltd:0001840502
+Lendingtree Inc:0001096479
+Oil-Dri Corporation of America:0000074046
+Magic Software Enterprises Ltd:0000876779
+Emerald Holding Inc:0001579214
+Edgewell Personal Care Co:0001096752
+Petco Health and Wellness Company Inc:0001826470
+Scansource Inc:0000918965
+Preformed Line Products Co:0000080035
+Olaplex Holdings Inc:0001868726
+Lexinfintech Holdings Ltd:0001708259
+Pharming Group NV:0001828316
+Herbalife Ltd:0001180262
+Marten Transport Ltd:0000799167
+Inmode Ltd:0001742692
+Highpeak Energy Inc:0001792849
+Winnebago Industries Inc:0000107687
+Old Second Bancorp Inc:0000357173
+First Mid Bancshares Inc:0000700565
+Middlesex Water Co:0000066004
+Hippo Holdings Inc:0001828105
+D Market Elektronik Hizmetler ve Ticaret AS:0001850235
+NPK International Inc:0000071829
+World Acceptance Corp:0000108385
+XPLR Infrastructure LP:0001603145
+IRadimed Corp:0001325618
+Latham Group Inc:0001833197
+Groupon Inc:0001490281
+Southside Bancshares Inc:0000705432
+SpartanNash Co:0000877422
+Northeast Bank:0000811831
+Standard Motor Products Inc:0000093389
+Mediaalpha Inc:0001818383
+Embecta Corp:0001872789
+Hovnanian Enterprises Inc:0000357294
+TreeHouse Foods Inc:0001320695
+EverQuote Inc:0001640428
+Liquidity Services Inc:0001235468
+Univest Financial Corp:0000101943
+Kosmos Energy Ltd:0001509991
+Guess? Inc:0000912463
+Permian Basin Royalty Trust:0000899166
+HealthStream Inc:0001095565
+Getty Images Holdings Inc:0001898496
+Sprout Social Inc:0001517375
+Natural Grocers by Vitamin Cottage Inc:0001547459
+Nextdoor Holdings Inc:0001846069
+Tandem Diabetes Care Inc:0001438133
+NETGEAR Inc:0001122904
+Studio City International Holdings Ltd:0001713334
+Stratasys Ltd:0001517396
+Fiverr International Ltd:0001762301
+NerdWallet Inc:0001625278
+National Presto Industries Inc:0000080172
+Iovance Biotherapeutics Inc:0001425205
+Similarweb Ltd:0001842731
+Horizon Bancorp Inc:0000706129
+Great Lakes Dredge & Dock Corp:0000885538
+indie Semiconductor Inc:0001841925
+Heritage Financial Corp:0001046025
+Oppenheimer Holdings Inc:0000791963
+Unitil Corp:0000755001
+Metropolitan Bank Holding Corp:0001476034
+Geron Corp:0000886744
+Uniqure NV:0001590560
+United Fire Group Inc:0000101199
+Genco Shipping & Trading Ltd:0001326200
+Matthews International Corp:0000063296
+PDF Solutions Inc:0001120914
+Tronox Holdings PLC:0001214556
+Anywhere Real Estate Inc:0001398987
+Redwood Trust Inc:0000930236
+Shutterstock Inc:0001549346
+Energy Recovery Inc:0001421517
+Shenandoah Telecommunications Co:0001118404
+Noah Holdings Ltd:0001499543
+VTEX:0001793663
+Valneva SE:0001836564
+Kimball Electronics Inc:0001606757
+Mercantile Bank Corp:0001042729
+John B Sanfilippo & Son Inc:0362419677
+HUYA Inc:0001728190
+Insteel Industries Inc:0000764401
+Ethan Allen Interiors Inc:0000896156
+Seneca Foods Corp:0000735236
+Seneca Foods Corp:0000088948
+Mind Medicine (MindMed) Inc:0001813814
+Hanmi Financial Corp:0001109242
+McEwen Inc:0000314203
+Immatics NV:0001809196
+Gossamer Bio Inc:0000075042
+TrustCo Bank Corp NY:0000357301
+Pros Holdings Inc:0001392972
+Kronos Worldwide Inc:0001257640
+Stitch Fix Inc:0001576942
+Riskified Ltd:0001305702
+Ready Capital Corp:0001527590
+Relay Therapeutics Inc:0001812364
+Lindblad Expeditions Holdings Inc:0001512499
+HomeTrust Bancshares Inc:0001538263
+LSI Industries Inc:0000763532
+Ituran Location and Control Ltd:0001337117
+Great Southern Bancorp Inc:0000854560
+Red Violet Inc:0001720116
+Quanex Building Products Corp:0001423221
+Theravance Biopharma Inc:0001583107
+Universal Insurance Holdings Inc:0000891166
+Dave & Buster's Entertainment Inc:0001525769
+Myriad Genetics Inc:0000899923
+Mid Penn Bancorp Inc:0000879635
+Five Star Bancorp:0001275168
+Tsakos Energy Navigation Ltd:0001166663
+Oxford Industries Inc:0000075288
+Qudian Inc:0001692705
+Nordic American Tankers Ltd:0001000177
+Solid Power Inc:0001844862
+First Financial Corp:0000855086
+Scholastic Corp:0000866729
+Green Plains Inc:0001309402
+Orrstown Financial Services Inc:0000826154
+Vir Biotechnology Inc:0001706431
+Fulgent Genetics Inc:0001674930
+Transcat Inc:0000099302
+Mativ Holdings Inc:0001000623
+Mativ Holdings Inc:0001000623
+SunCoke Energy Inc:0001514705
+ChipMOS Technologies Inc:0001123134
+Heartland Express Inc:0000799233
+First Community Bankshares Inc:0001027280
+SNDL Inc:0001766600
+Lincoln Educational Services Corp:0001286613
+Tetra Technologies Inc:0000844965
+Kornit Digital Ltd:0001625791
+SI-BONE Inc:0001459839
+PRA Group Inc:0001185348
+ODP Corp:0000800240
+Independent Bank Corp (Michigan):0000039311
+Malibu Boats Inc:0001590976
+SIGA Technologies Inc:0001010086
+Gannett Co Inc:0001579684
+Vital Energy Inc:0001528129
+Terns Pharmaceuticals Inc:0001831363
+Golden Entertainment Inc:0001071255
+Hyster-Yale Inc:0001173514
+Shoe Carnival Inc:0000895447
+Sturm Ruger & Company Inc:0000095029
+Gray Media Inc:0000043196
+Gray Media Inc:0000043196
+Eagle Bancorp Inc:0001050441
+Hingham Institution For Savings:0002044671
+Organogenesis Holdings Inc:0001661181
+Heritage Commerce Corp:0001053352
+Nabors Industries Ltd:0001163739
+Myers Industries Inc:0000069488
+MGP Ingredients Inc:0000835011
+Orthofix Medical Inc:0000884624
+Ichor Holdings Ltd:0001652535
+NU Skin Enterprises Inc:0001021561
+Village Super Market Inc:0000103595
+Graham Corp:0000716314
+LSB Industries Inc:0000060714
+Kforce Inc:0001318262
+Hackett Group Inc:0001057379
+Hackett Group Inc:0001057379
+Universal Health Realty Income Trust:0000798783
+MarineMax Inc:0001492426
+Shore Bancshares Inc:0001035092
+Bed Bath & Beyond Inc:0001130713
+Priority Technology Holdings Inc:0001653558
+USANA Health Sciences Inc:0000896264
+Esperion Therapeutics Inc:0001434868
+Titan International Inc:0000899751
+Washington Trust Bancorp Inc:0000737468
+Skywater Technology Inc:0001819974
+RMR Group Inc:0001644378
+Farmers National Banc Corp:0000709337
+Guaranty Bancshares Inc:0001058867
+Monro Inc:0000876427
+Helen of Troy Ltd:0000916789
+Gladstone Investment Corp:0001321741
+ZimVie Inc:0001876588
+American Coastal Insurance Corp:0001401521
+Financial Institutions Inc:0000862831
+Standard BioTools Inc:0001162194
+Standard BioTools Inc:0001162194
+Personalis Inc:0001527753
+Unity Bancorp Inc:0000920427
+Peoples Financial Services Corp:0001056943
+Peapack-Gladstone Financial Corp:0001050743
+Lifeway Foods Inc:0000814586
+Global Medical REIT Inc:0001533615
+Greenlight Capital Re Ltd:0001385613
+NWPX Infrastructure Inc:0001001385
+Marcus Corp:0000062234
+ProPetro Holding Corp:0001680247
+Invesco Mortgage Capital Inc:0001437071
+Westrock Coffee Co:0001806347
+TAT Technologies Ltd:0000808439
+Sonida Senior Living Inc:0001043000
+One Liberty Properties Inc:0000712770
+OrthoPediatrics Corp:0001425450
+Kelly Services Inc:0000055135
+Kelly Services Inc:0000055135
+Northrim BanCorp Inc:0001163370
+Telos Corp:0000320121
+Karat Packaging Inc:0001758021
+Farmland Partners Inc:0001591670
+Eastman Kodak Co:0000031235
+Xerox Holdings Corp:0001770450
+Sohu.com Ltd:0001104188
+Service Properties Trust:0000945394
+Investors Title Co:0000720858
+Ennis Inc:0000033002
+Flushing Financial Corp:0000742162
+Regenxbio Inc:0001459888
+SES AI Corp:0001819142
+Lands End Inc:0000799288
+Safe Bulkers Inc:0001434754
+Wabash National Corp:0000879526
+Valhi Inc:0000059255
+Gevo Inc:0001392380
+Surmodics Inc:0000924717
+Xunlei Ltd:0001218077
+Miller Industries Inc:0000924822
+Hudson Technologies Inc:0001282183
+XOMA Royalty Corp (Pre-Reincorporation):0001226649
+Pennantpark Investment Corp:0001383414
+Gravity Co Ltd:0001313310
+Treace Medical Concepts Inc:0001630627
+VAALCO Energy Inc:0000894627
+Honest Company Inc:0001530979
+Mitek Systems Inc:0000807863
+Rayonier Advanced Materials Inc:0001597672
+Tejon Ranch Co:0000096869
+Nathan's Famous Inc:0000069733
+Prothena Corporation PLC:0001559053
+York Water Co:0000108985
+Movado Group Inc:0001826439
+Semler Scientific Inc:0001554859
+I-Mab:0001778016
+Perion Network Ltd:0001338940
+Home Bancorp Inc:0001436425
+Johnson Outdoors Inc:0000814675
+Evolus Inc:0001570562
+Emergent BioSolutions Inc:0001367644
+Kearny Financial Corp:0001617242
+Kingsway Financial Services Inc:0001072627
+Ranpak Holdings Corp:0001712463
+Zevra Therapeutics Inc:0000888228
+Mesabi Trust:0000065172
+BrasilAgro - Companhia Brasileira de Propriedades Agricolas:0001499849
+Greene County Bancorp Inc:0001070524
+Lexicon Pharmaceuticals Inc:0001062822
+Stellus Capital Investment Corp:0001551901
+Vasta Platform Ltd:0001792829
+Transcontinental Realty Investors Inc:0000733590
+Genie Energy Ltd:0001528356
+Lightbridge Corp:0001084554
+Wolfspeed Inc:0000895419
+Star Group LP:0001002590
+PubMatic Inc:0001422930
+Kopin Corp:0000771266
+Owens & Minor Inc:0000075252
+Intrepid Potash Inc:0001160958
+Park Aerospace Corp:0000076267
+Haverty Furniture Companies Inc:0001010759
+Haverty Furniture Companies Inc:0000216085
+National Research Corp:0000070487
+CS Disco Inc:0001625641
+Pacific Biosciences of California Inc:0001299130
+Luxfer Holdings PLC:0001096056
+Olympic Steel Inc:0000917470
+GoPro Inc:0001500435
+Jack in the Box Inc:0000880117
+Jack in the Box Inc:0000807882
+Energy Vault Holdings Inc:0000009622
+Genesco Inc:0000018498
+MBIA Inc:0000814585
+Value Line Inc:0000717720
+Matrix Service Co:0001412533
+Southern First Bancshares Inc:0001090009
+Mesa Laboratories Inc:0000724004
+Manitowoc Company Inc:0000061986
+Opal Fuels Inc:0001842279
+Ponce Financial Group Inc:0001703489
+Innoviz Technologies Ltd:0001835654
+Rocket Pharmaceuticals Inc:0001281895
+Lesaka Technologies Inc:0001041514
+Oil States International Inc:0001121484
+Onity Group Inc:0000873860
+West Bancorporation Inc:0001166928
+MicroVision Inc:0000065770
+Zumiez Inc:0001318008
+Natural Gas Services Group Inc:0001084991
+1-800-Flowers.Com Inc:0001084869
+GeoPark Ltd:0001464591
+Ranger Energy Services Inc:0001699039
+NVE Corp:0000724910
+Gladstone Land Corp:0001495240
+So-Young International Inc:0001758530
+NIU Technologies:0001744781
+Nano Dimension Ltd:0001643303
+Motorcar Parts of America Inc:0000891038
+Sanara Medtech Inc:0000714256
+Park Ohio Holdings Corp:0000076282
+Simulations Plus Inc:0001023459
+Simulations Plus Inc:0001023459
+Paused at 15:32:11:0000810958
+NACCO Industries Inc:0000789933
+Turtle Beach Corp:0001493761
+Mistras Group Inc:0001261470
+Plumas Bancorp:0001168455
+Knot Offshore Partners LP:0001096788
+Materialise NV:0001091223
+NL Industries Inc:0000072162
+Nature's Sunshine Products Inc:0000275053
+First Bancorp Inc:0000765207
+Lifecore Biomedical Inc:0001005286
+L B Foster Co:0001017300
+SmartRent Inc:0001837014
+Northeast Community Bancorp Inc:0001354772
+Primeenergy Resources Corp:0000056868
+WEYCO Group Inc:0000106532
+G Willi Food International Ltd:0001030997
+G Willi Food International Ltd:0001030997
+Strattec Security Corp:0000933034
+Unisys Corp:0000746838
+Tredegar Corp:0000850429
+Horizon Technology Finance Corp:0001487428
+Galectin Therapeutics Inc:0001133416
+Methode Electronics Inc:0000065270
+Timberland Bancorp Inc:0001046050
+Mereo BioPharma Group PLC:0001719714
+Tile Shop Holdings Inc:0001552800
+Xperi Inc:0001788999
+Invesco Global Water ETF:0001471336
+8x8 Inc:0001023731
+Omeros Corp:0001285819
+JJill Inc:0001687932
+Paused at 15:32:10:0000852772
+San Juan Basin Royalty Trust:0000319655
+Pure Cycle Corp:0000276720
+Quantum-Si Inc:0001816431
+Eventbrite Inc:0001475115
+Heron Therapeutics Inc:0000818033
+W&T Offshore Inc:0001288403
+StealthGas Inc:0001328919
+Primis Financial Corp:0001325670
+Vanda Pharmaceuticals Inc:0001347178
+Parke Bancorp Inc:0001315399
+PAMT Corp:0000075894
+Fidelity D&D Bancorp Inc:0001098151
+Lovesac Co:0001701758
+LightPath Technologies Inc:0000889971
+Information Services Group Inc:0001371489
+Veritone Inc:0001615165
+Editas Medicine Inc:0001650664
+RCI Hospitality Holdings Inc:0000935419
+Triplepoint Venture Growth BDC Corp:0001580345
+Flexsteel Industries Inc:0000037472
+Nano-X Imaging Ltd:0001795251
+Humacyte Inc:0001818382
+Middlefield Banc Corp:0000836147
+Inspired Entertainment Inc:0001615063
+AG Mortgage Investment Trust Inc:0001514281
+Franklin Covey Co:0000886206
+Quanterix Corp:0001503274
+Norwood Financial Corp:0001013272
+Medallion Financial Corp:0001000209
+E W Scripps Co:0000832428
+eGain Corp:0001066194
+James River Group Holdings Ltd:0001283016
+OraSure Technologies Inc:0000074273
+First United Corp:0000763907
+Radcom Ltd:0001016838
+ON24 Inc:0001110611
+OmniAb Inc:0001846253
+Security National Financial Corp:0000318673
+Solesence Inc:0000883107
+UBS AG:0001114446
+Stoneridge Inc:0001043337
+Inogen Inc:0001294133
+Immersion Corp:0001058811
+RGC Resources Inc:0001069533
+Seritage Growth Properties:0001628063
+Entravision Communications Corp:0001109116
+LCNB Corp:0001074902
+Smith-Midland Corp:0000924719
+KALA BIO Inc:0001479419
+Health Catalyst Inc:0001636422
+Rocky Brands Inc:0000895456
+SuRo Capital Corp:0001509470
+First Community Corp (South Carolina):0000932781
+US Gold Corp:0000027093
+Virginia National Bankshares Corp:0001572334
+Franklin Financial Services Corp:0000723646
+Mercer International Inc:0001333274
+OP Bancorp:0001722010
+ProQR Therapeutics NV:0001612940
+First National Corp:0000719402
+CoreCard Corp:0000320340
+CoreCard Corp:0000320340
+Tucows Inc:0001117964
+B Riley Financial Inc:0001464790
+NOVONIX Ltd:0001859795
+TrueCar Inc:0001327318
+JAKKS Pacific Inc:0001009829
+Utah Medical Products Inc:0000706698
+Forrester Research Inc:0001023313
+R C M Technologies Inc:0000700841
+Innovative Solutions and Support Inc:0000836690
+Eagle Financial Services Inc:0000880641
+WM Technology Inc:0001401923
+Tiziana Life Sciences Ltd:0001723069
+Twin Disc Inc:0000100378
+Twin Disc Inc:0000100378
+National Bankshares Inc:0000796534
+TrueBlue Inc:0000768899
+KORU Medical Systems Inc:0000704440
+Funko Inc:0001704711
+Neuronetics Inc:0001227636
+Sight Sciences Inc:0001531177
+Lantronix Inc:0001114925
+Rekor Systems Inc:0001697851
+Superior Group of Companies Inc:0000095574
+Expensify Inc:0001476840
+Everspin Technologies Inc:0001438423
+Sellas Life Sciences Group Inc:0001390478
+Children's Place Inc:0001041859
+Meridian Corp:0001750735
+Ohio Valley Banc Corp:0000894671
+TTEC Holdings Inc:0001013880
+Resources Connection Inc:0001084765
+FutureFuel Corp:0001337298
+Vuzix Corp:0001463972
+Peoples Bancorp of North Carolina Inc:0001093672
+Escalade Inc:0000848579
+Fossil Group Inc:0000883569
+AVITA Medical Inc:0001762303
+Milestone Pharmaceuticals Inc:0001408443
+FreightCar America Inc:0001311810
+United Security Bancshares:0001137547
+Stratus Properties Inc:0000885508
+Orion Properties Inc:0001873923
+Westwood Holdings Group Inc:0001142558
+Enanta Pharmaceuticals Inc:0001177648
+Medifast Inc:0000910329
+Landmark Bancorp Inc:0001141688
+SoundThinking Inc:0001351636
+Perma-Fix Environmental Services Inc:0000891532
+Sangamo Therapeutics Inc:0001001233
+Eastern Company:0000031107
+Friedman Industries Inc:0000039092
+Ihuman Inc:0001814423
+Gaia Inc:0001089872
+First Capital Inc:0001070296
+Richardson Electronics Ltd:0000355948
+Taylor Devices Inc:0000735086
+Fold Holdings Inc:0001889123
+Great Elm Capital Corp:0001675033
+Patriot National Bancorp Inc:0000890512
+Lakeland Industries Inc:0000798081
+Oncolytics Biotech Inc:0001129928
+Eagle Bancorp Montana Inc:0001478454
+Hain Celestial Group Inc:0000910406
+Kewaunee Scientific Corp:0000055529
+iRobot Corp:0001159167
+Full House Resorts Inc:0000891482
+Siebert Financial Corp:0000065596
+Red Robin Gourmet Burgers Inc:0001171759
+CURRENC Group Inc:0001862935
+KVH Industries Inc:0001007587
+eHealth Inc:0001333493
+UBS AG:0001114446
+Gulf Island Fabrication Inc:0001031623
+Union Bankshares Inc:0000826074
+Seer Inc:0001726445
+Sera Prognostics Inc:0001534969
+Sportsmans Warehouse Holdings Inc:0001132105
+Ascent Industries Co:0000095953
+Sound Financial Bancorp Inc:0001541119
+NN Inc:0000918541
+Strive US Semiconductor ETF:0000930600
+Hurco Companies Inc:0000315374
+Sunlands Technology Group:0001723935
+MagnaChip Semiconductor Corp:0001325702
+Ultralife Corp:0000875657
+Lument Finance Trust Inc:0001547546
+Hyperfine Inc:0001833769
+Pro-Dex Inc:0000788920
+Fate Therapeutics Inc:0001434316
+Hooker Furnishings Corp:0001077688
+Intellicheck Inc:0001040896
+Spero Therapeutics Inc:0001701108
+Travelzoo:0001133311
+aTyr Pharma Inc:0001339970
+Silicom Ltd:0000916793
+Riverview Bancorp Inc:0001041368
+Genasys Inc:0000924383
+Provident Financial Holdings Inc:0001010470
+Fuel Tech Inc:0000846913
+Fonar Corp:0000355019
+Cassava Sciences Inc:0001069530
+InspireMD Inc:0001433607
+Ucloudlink Group Inc:0001775898
+Great Elm Group Inc:0001831096
+Emeren Group Ltd:0001417892
+Equillium Inc:0001746466
+GrowGeneration Corp:0001604868
+Gogoro Inc:0001886190
+Quicklogic Corp:0000882508
+Nautilus Biotechnology Inc:0001808805
+Pliant Therapeutics Inc:0001746473
+Oramed Pharmaceuticals Inc:0001176309
+Pathfinder Bancorp Inc (MARYLAND):0001609065
+Saga Communications Inc:0000886136
+Hennessy Advisors Inc:0001145255
+Trinseo PLC:0001519061
+Loop Industries Inc:0001504678
+Interlink Electronics Inc:0000828146
+Edap Tms SA:0001041934
+Lifetime Brands Inc:0000874396
+IF Bancorp Inc:0001514743
+Canterbury Park Holding Corp:0001672909
+Marchex Inc:0001224133
+Unifi Inc:0000100726
+Entera Bio Ltd:0001638097
+United Bancorp Inc:0000731653
+Ovid Therapeutics Inc:0001636651
+Israel Acquisitions Corp:0001915328
+J W Mays Inc:0000054187
+Odyssey Marine Exploration Inc:0000798528
+RF Industries Ltd:0000740664
+Sutro Biopharma Inc:0001382101
+Optical Cable Corp:0001000230
+MV Oil Trust:0001371782
+First Northwest Bancorp:0001556727
+Neonode Inc:0000087050
+Eltek Ltd:0001024672
+Where Food Comes From Inc:0001348313
+LivePerson Inc:0001102993
+TELA Bio Inc:0001561921
+VirTra Inc:0001085243
+Universal Electronics Inc:0000101984
+Office Properties Income Trust:0001456772
+Surgepays Inc:0001392694
+Manhattan Bridge Capital Inc:0001080340
+NetSol Technologies Inc:0001039280
+Sono-Tek Corp:0000806172
+Genenta Science SPA:0001838716
+Petmed Express Inc:0001040130
+Rockwell Medical Inc:0001041024
+Vera Bradley Inc:0001495320
+Mesa Air Group Inc:0000810332
+Daxor Corp:0000027367
+Koss Corp:0000056701
+ImmuCell Corp:0000811641
+Reading International Inc:0000716634
+Reading International Inc:0000716634
+Reading International Inc:0000716634
+Natural Health Trends Corp:0000912061
+Sypris Solutions Inc:0000864240
+Rave Restaurant Group Inc:0000718332
+Eco Wave Power Global AB (publ):0001846715
+PB Bankshares Inc:0001849670
+Dawson Geophysical Co:0000799165
+Texas Community Bancshares Inc:0001849466
+North European Oil Royalty Trust:0000072633
+Zynex Inc:0000846475
+TransAct Technologies Inc:0001017303
+Carparts.Com Inc:0001359410
+PermRock Royalty Trust:0001724009
+Research Frontiers Inc:0000793524
+NeuroOne Medical Technologies Corp:0001500198
+SCYNEXIS Inc:0001178253
+Lantern Pharma Inc:0001763950
+Ideal Power Inc:0001507957
+Brand House Collective Inc:0001056285
+Rand Capital Corp:0000081955
+US Energy Corp:0000101594
+Barinthus Biotherapeutics PLC:0001828185
+InterGroup Corp:0000069422
+Natuzzi SpA:0001351338
+Mobilicom Ltd:0001898643
+Laser Photonics Corp:0001807887
+Farmer Bros Co:0000034563
+Usio Inc:0001088034
+Xilio Therapeutics Inc:0001840233
+Key Tronic Corp:0000719733
+United-Guardian Inc:0000101295
+Lee Enterprises Inc:0000058361
+Dyadic International Inc:0001213809
+Star Equity Holdings Inc:0001210708
+Stran & Company Inc:0001872525
+Evogene Ltd:0001574565
+EQUUS Total Return Inc:0000878932
+US Global Investors Inc:0000754811
+Phoenix New Media Ltd:0001509646
+Nine Energy Service Inc:0000820321
+Inspira Technologies Oxy BHN Ltd:0001837493
+Harte Hanks Inc:0000045919
+Nortech Systems Inc:0000722313
+SPAR Group Inc:0001004989
+Enlivex Therapeutics Ltd:0001596812
+Tandy Leather Factory Inc:0000909724
+Mind CTI Ltd:0001119083
+Greenland Technologies Holding Corp:0001735041
+REE Automotive Ltd:0001843588
+Gyrodyne LLC:0001589061
+Willamette Valley Vineyards Inc:0000838875
+ProMIS Neurosciences Inc:0001374339
+Globus Maritime Ltd:0001499780
+IRIDEX Corp:0000319240
+Harvard Bioscience Inc:0001123494
+Nocera Inc:0001756180
+UTStarcom Holdings Corp:0001030471
+Lisata Therapeutics Inc:0000320017
+GigaMedia Ltd:0001105101
+Natural Alternatives International Inc:0000787253
+Rail Vision Ltd:0001743905
+iPower Inc:0001830072
+Intelligent Protection Management Corp:0001355839
+Good Times Restaurants Inc:0000825324
+SemiLEDs Corp:0001333822
+Electro-Sensors Inc:0000351789
+Mannatech Inc:0001056358
+Taitron Components Inc:0000942126
+Pintec Technology Holdings Ltd:0001716338
+Nexalin Technology Inc:0001527352
+Rocky Mountain Chocolate Factory Inc (Delaware):0001616262
+Medirom Healthcare Technologies Inc:0001820015
+Glen Burnie Bancorp:0000890066
+Jewett-Cameron Trading Company Ltd:0000885307
+TherapeuticsMD Inc:0000025743
+Intensity Therapeutics Inc:0001567264
+Educational Development Corp:0000031667
+X T L Biopharmaceuticals Ltd:0001023549
+Mesa Royalty Trust:0000313364
+Marine Petroleum Trust:0001284721
+Paused at 15:32:10:0001880613
+ESSA Pharma Inc:0001633932
+Lifeward Ltd:0001607962
+Lendway Inc:0000875355
+Origin Agritech Ltd:0001321851
+Socket Mobile Inc:0000944075
+Highway Holdings Ltd:0001026785
+Arcadia Biosciences Inc:0001469443
+Integrated Media Technology Ltd:0001668438
+QUBT:0001758009
+QBTS:0001907982
+RGTI:0001838359
